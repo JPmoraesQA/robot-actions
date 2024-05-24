@@ -1,1 +1,5 @@
 logs
+node_modules
+get-pip.py
+package-lock.json
+package.json
