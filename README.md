@@ -25,7 +25,3 @@ robot -d ./logs -v IS_HEADLESS:True tests
 ```
 robot -d ./logs -v IS_HEADLESS:False tests
 ```
-
-<hr>
-Curso disponível em https://qax.com.br
-
